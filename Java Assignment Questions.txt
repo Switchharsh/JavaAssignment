@@ -1,0 +1,36 @@
+Java Assignment
+1. Write a java program which will take some random numbers from user. He can enter as many numbers as he wants. Once user enters 'Done', we should display sum of those numbers to user
+
+2. Write a java program which will take no of days from user and show the date after those many days to user.
+
+3. Write a java program which will take Email ID as input, show the user if it is valid user input or not
+
+4. Write a java program which will take some random multi line text from user and save the same to TXT file
+
+5. Write a java program which will take TXT file name from user, read that file and show the content to end user.
+
+6. Write a java program demonstrating switch case
+
+7. Create a table EmployeeRecords and enter some dummy records in it.
+EmpID - PK
+EmpName
+EmpSalary
+EmpCity
+
+Write a java program to read all records from this table and put it inside Excel. You can use a POI jar for this purpose.
+
+8.  Write a java program to read all records from above table and create XML out of this and write to one file with extension XML. You can use Document Object Model for this purpose.
+
+Sample XML -
+<EmployeeRecords>
+<Employee id='1'>
+<EmplName>ABC</EmpName>
+<EmpSalary>10000</EmpSalary>
+<EmpCity>Pune</EmpCity>
+</Employee>
+<Employee id='2'>
+<EmplName>PQR</EmpName>
+<EmpSalary>20000</EmpSalary>
+<EmpCity>Mumbai</EmpCity>
+</Employee>
+</EmployeeRecords>

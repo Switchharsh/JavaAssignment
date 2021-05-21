@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EmployeeRecords>
+<Employee id="1">
+<EmpName>Name1</EmpName>
+<EmpSalary>1000</EmpSalary>
+<EmpCity>Name1</EmpCity>
+</Employee>
+<Employee id="2">
+<EmpName>Name2</EmpName>
+<EmpSalary>2000</EmpSalary>
+<EmpCity>Name2</EmpCity>
+</Employee>
+<Employee id="3">
+<EmpName>Name3</EmpName>
+<EmpSalary>3000</EmpSalary>
+<EmpCity>Name3</EmpCity>
+</Employee>
+</EmployeeRecords>
